@@ -1,0 +1,16 @@
+
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+/**/ws.config.js
+
+/cmake-build-debug
+/cmake-build-release
+
+/cef/dep/libcef.dll
