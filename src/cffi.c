@@ -2,7 +2,6 @@
 extern "C" {
 #endif
 #include "../include/cffi.h"
-
 extern void* cffi_call_platform(int params_count,void** params,int stack_size, void* fun);
 
 void* cffi_call(void* fun, int params_count , void** params){
