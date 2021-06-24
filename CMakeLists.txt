@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(lib-cffi)
+project(lib-cffi-lite)
 
 SET(ENABLE_TESTS_MODE OFF)
 set(CMAKE_VERBOSE_MAKEFILE ON)
